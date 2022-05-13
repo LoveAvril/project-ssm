@@ -1,0 +1,3 @@
+# Project exclude paths
+/client_admin/node_modules/
+/target/
